@@ -1,0 +1,359 @@
+@font-face {
+    font-family: 'gothic' ;
+    src: url(/font/League_Gothic-webfont.ttf);
+    font-weight: normal;
+    font-style: normal;
+} 
+::selection {
+    background-color: #B82924; 
+    color: #fff; 
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #282833;
+    color: white;
+    margin-top: -30px;
+}
+body p{
+    font-family: arial;
+}
+.bg {
+    background-color: #353543;
+    height: 700px;
+    width: 100%;
+}
+.logo {
+    padding: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+.menunav img{
+    position: absolute;
+    margin-top: -55px;
+    margin-left: 950px;
+}
+.menunav2 img{
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 1080px;
+}
+.menu li{
+    list-style-type: none;
+    float: left;
+    padding-right: 15px;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+}
+.menu li a:hover{
+   color: #ffba19;
+   font-size: 17px;
+}
+.menu {
+    position: absolute;
+    margin-top: -120px;
+    margin-left: 480px;
+}
+.partner {
+width: 800px;
+height: 100px;
+margin-top: 600px;
+background-color: #575764;
+}
+.ilustrasi {
+    color: white;
+    margin-top: -360px;
+    width: 450px;   
+}
+.ilustrasi p{
+    margin-left: 30px;
+}
+.ilustrasi h2{
+    position: absolute;
+    margin-top: -90px;
+    margin-left: 29px;
+}
+.ilustrasi h1{
+    position: absolute;
+    color: #ffba19;
+    margin-top: -35px;
+    margin-left: 29px;
+}
+.hero {
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 480px;
+}
+.ilustrasi2 {
+    color: white;
+    width: 460px;
+    position: absolute;
+    margin-top: -290px;
+    margin-left:830px;
+}
+.ilustrasi2 li{
+    float: left;
+    list-style-type: none;
+    margin-right: 15px;
+}
+.hero img{
+    border-radius: 100%;
+}
+.partner {
+    margin: 180px auto;
+    border-radius: 15px;
+    margin-left: 250px;
+    padding: 15px;
+}
+.partner img {
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.isi {
+    margin-top: -80px;
+    margin-left: 90px;
+    color: white;
+    width: 400px;
+}
+.karya {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.karya p {
+    font-size: 20px; 
+    margin-top:-20px;
+}
+.karya h1 {
+ font-size: 35px;
+}
+.karya h2 {
+    display: flex;
+    font-size: 35px;
+    color: #ffba19;
+}
+.iklan {
+    position: absolute;
+    margin-top: -390px;
+    margin-left: 700px;
+}
+.iklan li{
+    list-style-type: none;
+    padding: 10px;
+}
+.indukbox {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.box1 {
+    margin-left: 70px;
+    margin-top: -150px;
+    background-color: #575764;
+    width: 300px;
+    height: 280px;
+}
+.box1 img{
+    margin-left: 100px;
+    padding: 20px;
+    width: 60px;
+}
+.box1 p{
+    color: white;
+    text-align: center;
+}
+.box2 {
+    margin-top: -150px;
+    background-color: #575764;
+    width: 300px;
+    height: 280px;
+}
+.box2 img{
+    margin-left: 100px;
+    padding: 20px;
+    width: 60px;
+}
+.box2 p{
+    color: white;
+    text-align: center;
+}
+.box3 {
+    margin-top: -150px;
+    margin-right: 100px;
+    background-color: #575764;
+    width: 300px;
+    height: 280px;
+}
+.box3 img{
+    margin-left: 100px;
+    padding: 20px;
+    width: 60px;
+}
+.box3 p{
+    color: white;
+    text-align: center;
+}
+.boxbg{
+    margin-top: 200px;
+    background-color: #353543;
+    width: 100%;
+    height: 1250px;
+}
+.mybest h2{
+    margin-top: 60px;
+    margin-left: 90px;
+    color: #ffba19;
+}
+.mybest p {
+    margin-left: 90px;
+    width: 280px;
+}
+.best1{
+    display: flex;
+    justify-content: center;
+}
+.box4{
+    background-color: #575764;
+    width: 400px;
+    height: 250px;
+    margin-left: 20px;
+    margin-bottom: 20px ;
+}
+.box4 h2{
+    color: #ffba19;
+    margin-left: 20px;
+}
+.box4 p{
+    font-size: 15px;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+.box4 img{
+    width: 400px;
+    height: 172px;
+}
+.sh{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.induk2{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+}
+.boxtext img{
+    width: 400px;
+    height: 400px;
+}
+.boxtext{
+    background-color:#575764;
+    width: 400px;
+    height: 400px;
+}
+.boxtext h1{
+    margin-left: 50px;
+    color: #ffba19;
+    font-size: 50px;
+}
+.boxtext p{
+    width: 220px;
+    margin-left: 50px;
+}
+.panah{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+
+}
+.panah img{
+    margin-left: 30px;
+    width: 50px;
+}
+.boxme{
+    margin-top: 110px;
+    background-color: #353543;
+    height: 600px;
+    width: 100%;
+}
+.boxme h1{
+    padding: 120px;
+    width: 400px;
+}
+.boxme p{
+    font-family: Arial;
+    width: 360px;
+    margin-left: 125px;
+    margin-top: -100px;
+}
+.sosmed{
+    margin-top: 100px;
+    display: flex;
+    justify-content: flex-start;
+}
+.sosmed img{
+    width: 80px;
+    margin-left: 155px;
+}
+.ig{
+    display: flex;
+    justify-content: flex-start;
+}
+.ig h2{
+    margin-left: 130px;
+    margin-top: -1px;
+    color: #ffba19;
+}
+.saya{
+    display: flex;
+    justify-content: center;
+}
+.saya img{
+    margin-top: -400px;
+    margin-left: 400px;
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+}
+.footer{
+    padding: 70px;
+    display: flex;
+    justify-content: center;
+
+}
+.boxf{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    height: 100px;
+    width: 350px;
+    margin-left: 20px;
+} 
+.boxf h1{
+    margin-left: 10px;
+    margin-top: -10px;
+    list-style-type: none;
+}
+.boxf a{
+    font-size: 11px;
+    margin-top: 10px;
+    color: #fff;
+    font-family: arial;
+    margin-left: 5px;
+    text-decoration: none;
+ 
+}
+.boxf li{
+    margin-top: 5px;
+    margin-left: 10px;
+    list-style-type: none;
+    width: 130px;
+}
+.boxf p{
+    width: 140px;
+    font-size: 11px;
+    margin-top: -15px;
+    color: #fff;
+    font-family: arial;
+    margin-left: 5px;
+}
